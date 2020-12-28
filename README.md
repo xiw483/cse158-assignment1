@@ -1,5 +1,5 @@
 # cse158-assignment1
-Tasks
+Tasks:
 You are expected to complete the following tasks:
 
 Play prediction (both classes) Predict given a (user,game) pair from ‘pairs Played.txt’ whether the user
